@@ -1,0 +1,2 @@
+D:\test\MyClient\Debug\MyClient.exe
+D:\test\MyClient\Debug\MyClient.pdb

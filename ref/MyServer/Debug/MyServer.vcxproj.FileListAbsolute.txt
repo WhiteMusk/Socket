@@ -1,0 +1,2 @@
+D:\test\MyServer\Debug\MyServer.exe
+D:\test\MyServer\Debug\MyServer.pdb
